@@ -1,0 +1,16 @@
+Instructions:
+1. First of all, create a github account if you don't have. Then,
+2. Transform this mockup to HTML. Here, you have the api: https://reqres.in/
+3. Add this folder https://github.com/boomyjee/dayside in your root directory.
+4. Publish your work with source files included through Github and send us the link
+
+PS:
+- Must be a Single Page Application
+- No CSS frameworks
+- Footer must always stay at the bottom of the page
+- Layout must be responsive and cross-browser
+- Markup should be valid
+- You are free to make it more colorful
+- Animations and effects are welcomed
+
+Happy coding!

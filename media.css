@@ -1,0 +1,33 @@
+@media only screen and (max-width: 460px) {
+	#middle {
+    margin: 0;
+    text-align: center;
+}
+
+
+.cards {
+    display: block;
+    width: 95%;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.right {
+    position: absolute;
+    display: block;
+    border-left:none;
+    width: 90%;
+    padding-left: 5%;
+    text-align: center;
+}
+
+.check {
+    left: -32px;
+    height: 27px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 27%;
+}
+	
+}
